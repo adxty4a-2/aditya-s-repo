@@ -1,4 +1,4 @@
 # aditya-s-repo
 this is my first repo
-by- aditya gusain
+by- aditya 
 1 repo created 
